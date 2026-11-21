@@ -1,5 +1,87 @@
 [
   {
+    "id": "aandeelhouder",
+    "term_nl": "aandeelhouder",
+    "term_fr": "actionnaire",
+    "equivalence_fr": "L'aandeelhouder est l'actionnaire : le titulaire d'actions, qui n'engage que son apport. Depuis le Code des sociétés et des associations, le mot vaut pour la société à responsabilité limitée comme pour la société anonyme : l'article 5:1 pose le couple dans les deux langues pour la première, « de aandeelhouders », « les actionnaires », et l'article 7:125 pour la seconde, « slechts één aandeelhouder », « qu'un seul actionnaire ».",
+    "equivalence_nl": "De aandeelhouder is in het Frans de actionnaire: de houder van aandelen, die slechts zijn inbreng verbindt. Sinds het Wetboek van vennootschappen en verenigingen geldt het woord voor de besloten vennootschap zoals voor de naamloze vennootschap: artikel 5:1 zet het paar in beide talen voor de eerste, « de aandeelhouders », « les actionnaires », en artikel 7:125 voor de tweede, « slechts één aandeelhouder », « qu'un seul actionnaire ».",
+    "pitfall_fr": "Avant 2019, la SPRL avait des associés et des parts ; le Code de 2019 donne à la SRL des actionnaires et des actions, et un texte d'aujourd'hui suit le Code. Le néerlandais n'a qu'un mot, « aandeel », là où le français en garde deux : « parts ou actions », « aandelen », à l'article 12:2 ; de même « vennoten of aandeelhouders » se rend par « associés ou actionnaires », le « vennoot » étant l'associé de l'article 1:1. « Porteur de parts » et « détenteur d'actions » décrivent ; le Code dit « actionnaire ».\nL'« inbreng » est l'apport, et l'« obligatiehouder » de l'article 2:41 l'obligataire, non le « détenteur d'obligations ».",
+    "pitfall_nl": "Vóór 2019 had de SPRL « des associés » en « des parts »; het Wetboek van 2019 geeft de SRL « des actionnaires » en « des actions », en een tekst van vandaag volgt het Wetboek. Het Nederlands heeft één woord, aandeel, waar het Frans er twee houdt: aandelen wordt « parts ou actions » in artikel 12:2; zo ook wordt « vennoten of aandeelhouders » « associés ou actionnaires », en is de vennoot « l'associé » van artikel 1:1. « Porteur de parts » en « détenteur d'actions » omschrijven; het Wetboek zegt « actionnaire ».\nDe inbreng is « l'apport », en de obligatiehouder van artikel 2:41 « l'obligataire », niet « le détenteur d'obligations ».",
+    "example_nl": "Elke aandeelhouder heeft recht op één stem per aandeel.",
+    "example_fr": "Chaque actionnaire a droit à une voix par action.",
+    "related": [
+      "vennootschap",
+      "algemene-vergadering",
+      "statuten",
+      "fusie",
+      "splitsing"
+    ],
+    "sources": [
+      {
+        "instrument_nl": "Wetboek van vennootschappen en verenigingen",
+        "instrument_fr": "Code des sociétés et des associations",
+        "article": "5:1",
+        "quote_nl": "De besloten vennootschap is een vennootschap zonder kapitaal waarin de aandeelhouders slechts hun inbreng verbinden.",
+        "quote_fr": "La société à responsabilité limitée est une société dépourvue de capital dont les actionnaires n’engagent que leur apport.",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/2019/03/23/2019A40586/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/2019/03/23/2019A40586/justel"
+      },
+      {
+        "instrument_nl": "Wetboek van vennootschappen en verenigingen",
+        "instrument_fr": "Code des sociétés et des associations",
+        "article": "7:125",
+        "quote_nl": "Wanneer de vennootschap slechts één aandeelhouder telt, oefent hij de bevoegdheden uit die aan de algemene vergadering zijn toegekend.",
+        "quote_fr": "Lorsque la société ne compte qu’un seul actionnaire, il exerce les pouvoirs dévolus à l’assemblée générale.",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/2019/03/23/2019A40586/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/2019/03/23/2019A40586/justel"
+      }
+    ],
+    "page_fr": "https://bysaro.be/lexique/aandeelhouder.html",
+    "page_nl": "https://bysaro.be/nl/lexicon/aandeelhouder.html",
+    "first_published": "2026-11-21"
+  },
+  {
+    "id": "algemene-vergadering",
+    "term_nl": "algemene vergadering",
+    "term_fr": "assemblée générale",
+    "equivalence_fr": "L'algemene vergadering est l'assemblée générale : l'organe qui réunit les actionnaires ou les associés et exerce les pouvoirs que le Code lui confère, nommer les administrateurs, approuver les comptes, modifier les statuts, dissoudre la société. Le Code des sociétés et des associations pose le couple dans les deux langues à l'article 5:81, pour la société à responsabilité limitée, et à l'article 7:126, qui règle sa convocation dans la société anonyme.",
+    "equivalence_nl": "De algemene vergadering is in het Frans de assemblée générale: het orgaan dat de aandeelhouders of vennoten samenbrengt en de bevoegdheden uitoefent die het Wetboek haar toewijst, bestuurders benoemen, de rekeningen goedkeuren, de statuten wijzigen, de vennootschap ontbinden. Het Wetboek van vennootschappen en verenigingen zet het paar in beide talen in artikel 5:81, voor de besloten vennootschap, en in artikel 7:126, dat haar bijeenroeping in de naamloze vennootschap regelt.",
+    "pitfall_fr": "« Réunion générale », « assemblée des associés » et « AG » dans un texte soutenu décrivent ou abrègent ; le Code dit « assemblée générale ». Les verbes et les pièces ont leur mot : « bijeenroepen » se rend par « convoquer », l'« agenda » par « ordre du jour », jamais « agenda », le « besluit van de algemene vergadering » par « décision de l'assemblée générale », non « résolution ». La « statutenwijziging » qu'elle vote est la modification des statuts.\nL'« algemene vergadering van obligatiehouders » de l'article 2:41 est l'assemblée générale des obligataires ; l'« oprichtingsakte » qui désigne les premiers administrateurs, l'acte constitutif.",
+    "pitfall_nl": "« Réunion générale », « assemblée des associés » en « AG » in een verzorgde tekst omschrijven of korten af; het Wetboek zegt « assemblée générale ». De werkwoorden en de stukken hebben hun woord: bijeenroepen wordt « convoquer », de agenda « l'ordre du jour », nooit « agenda », het besluit van de algemene vergadering « la décision de l'assemblée générale », niet « la résolution ». De statutenwijziging die zij goedkeurt is « la modification des statuts ».\nDe algemene vergadering van obligatiehouders van artikel 2:41 is « l'assemblée générale des obligataires »; de oprichtingsakte die de eerste bestuurders aanduidt, « l'acte constitutif ».",
+    "example_nl": "De algemene vergadering heeft de jaarrekening goedgekeurd en de bestuurders benoemd.",
+    "example_fr": "L’assemblée générale a approuvé les comptes annuels et nommé les administrateurs.",
+    "related": [
+      "aandeelhouder",
+      "statuten",
+      "bestuurder",
+      "vereffening",
+      "mede-eigendom"
+    ],
+    "sources": [
+      {
+        "instrument_nl": "Wetboek van vennootschappen en verenigingen",
+        "instrument_fr": "Code des sociétés et des associations",
+        "article": "5:81",
+        "quote_nl": "De algemene vergadering van aandeelhouders oefent de bevoegdheden uit die dit wetboek haar toewijst. De statuten kunnen de bevoegdheden van de algemene vergadering uitbreiden.",
+        "quote_fr": "L’assemblée générale des actionnaires exerce les pouvoirs que lui confère le présent code. Les statuts peuvent étendre les pouvoirs de l’assemblée générale.",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/2019/03/23/2019A40586/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/2019/03/23/2019A40586/justel"
+      },
+      {
+        "instrument_nl": "Wetboek van vennootschappen en verenigingen",
+        "instrument_fr": "Code des sociétés et des associations",
+        "article": "7:126",
+        "quote_nl": "[…] roepen de algemene vergadering bijeen en bepalen haar agenda.",
+        "quote_fr": "[…] convoquent l’assemblée générale et fixent son ordre du jour.",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/2019/03/23/2019A40586/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/2019/03/23/2019A40586/justel"
+      }
+    ],
+    "page_fr": "https://bysaro.be/lexique/algemene-vergadering.html",
+    "page_nl": "https://bysaro.be/nl/lexicon/algemene-vergadering.html",
+    "first_published": "2026-11-21"
+  },
+  {
     "id": "arrest",
     "term_nl": "arrest",
     "term_fr": "arrêt",
@@ -118,6 +200,47 @@
     "page_fr": "https://bysaro.be/lexique/beschikking.html",
     "page_nl": "https://bysaro.be/nl/lexicon/beschikking.html",
     "first_published": "2026-11-03"
+  },
+  {
+    "id": "bestuurder",
+    "term_nl": "bestuurder",
+    "term_fr": "administrateur",
+    "equivalence_fr": "Le bestuurder est l'administrateur : la personne physique ou morale qui administre la société, seule ou au sein d'un collège. Le Code des sociétés et des associations pose le couple dans les deux langues à l'article 5:70 pour la société à responsabilité limitée, « bestuurd door één of meer bestuurders », « administrée par un ou plusieurs administrateurs », et à l'article 7:85 pour la société anonyme, dont le conseil d'administration, « raad van bestuur », compte au moins trois administrateurs.",
+    "equivalence_nl": "De bestuurder is in het Frans de administrateur: de natuurlijke of rechtspersoon die de vennootschap bestuurt, alleen of in een college. Het Wetboek van vennootschappen en verenigingen zet het paar in beide talen in artikel 5:70 voor de besloten vennootschap, « bestuurd door één of meer bestuurders », « administrée par un ou plusieurs administrateurs », en in artikel 7:85 voor de naamloze vennootschap, waarvan de raad van bestuur, « le conseil d'administration », minstens drie bestuurders telt.",
+    "pitfall_fr": "« Directeur », « dirigeant », « gestionnaire » et « manager » décrivent une fonction ; le Code dit « administrateur ». Depuis le 1er mai 2019, le mot vaut aussi pour la société à responsabilité limitée, qui n'a plus de gérant : un « bestuurder » de SRL se rend par « administrateur », jamais par « gérant », réservé au « zaakvoerder » de la société simple, de la SNC et de la SComm. « Besturen » se rend par « administrer », le « bestuursorgaan » par « organe d'administration » et la « raad van bestuur » par « conseil d'administration ».\nLe « dagelijks bestuur » est la gestion journalière, le « dagelijks bestuurder » le délégué à la gestion journalière, et l'« enige bestuurder » l'administrateur unique.",
+    "pitfall_nl": "« Directeur », « dirigeant », « gestionnaire » en « manager » omschrijven een functie; het Wetboek zegt « administrateur ». Sinds 1 mei 2019 geldt het woord ook voor de besloten vennootschap, die geen zaakvoerder meer heeft: een bestuurder van een BV wordt « administrateur », nooit « gérant », dat voorbehouden blijft aan de zaakvoerder van de maatschap, de VOF en de CommV. « Besturen » wordt « administrer », het bestuursorgaan « l'organe d'administration » en de raad van bestuur « le conseil d'administration ».\nHet dagelijks bestuur is « la gestion journalière », de dagelijks bestuurder « le délégué à la gestion journalière », en de enige bestuurder « l'administrateur unique ».",
+    "example_nl": "De bestuurders worden door de algemene vergadering benoemd voor een termijn van zes jaar.",
+    "example_fr": "Les administrateurs sont nommés par l’assemblée générale pour un terme de six ans.",
+    "related": [
+      "zaakvoerder",
+      "algemene-vergadering",
+      "statuten",
+      "vennootschap",
+      "volmacht"
+    ],
+    "sources": [
+      {
+        "instrument_nl": "Wetboek van vennootschappen en verenigingen",
+        "instrument_fr": "Code des sociétés et des associations",
+        "article": "5:70, § 1er",
+        "quote_nl": "De vennootschap wordt bestuurd door één of meer bestuurders die al dan niet een college vormen, en die natuurlijke of rechtspersonen zijn.",
+        "quote_fr": "La société est administrée par un ou plusieurs administrateurs constituant un collège ou non, qui sont des personnes physiques ou morales.",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/2019/03/23/2019A40586/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/2019/03/23/2019A40586/justel"
+      },
+      {
+        "instrument_nl": "Wetboek van vennootschappen en verenigingen",
+        "instrument_fr": "Code des sociétés et des associations",
+        "article": "7:85, § 1er",
+        "quote_nl": "De vennootschap wordt bestuurd door een collegiaal bestuursorgaan, raad van bestuur genoemd, dat minstens drie bestuurders telt, die natuurlijke of rechtspersonen zijn.",
+        "quote_fr": "La société est administrée par un organe d’administration collégial, appelé conseil d’administration, qui compte au moins trois administrateurs, personnes physiques ou morales.",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/2019/03/23/2019A40586/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/2019/03/23/2019A40586/justel"
+      }
+    ],
+    "page_fr": "https://bysaro.be/lexique/bestuurder.html",
+    "page_nl": "https://bysaro.be/nl/lexicon/bestuurder.html",
+    "first_published": "2026-11-21"
   },
   {
     "id": "betekening",
@@ -333,7 +456,9 @@
     "example_fr": "Le curateur a vendu les actifs du failli.",
     "related": [
       "faillissement",
-      "gerechtelijke-reorganisatie"
+      "gerechtelijke-reorganisatie",
+      "vereffening",
+      "ondernemingsrechtbank"
     ],
     "sources": [
       {
@@ -615,7 +740,9 @@
     "related": [
       "curator",
       "gerechtelijke-reorganisatie",
-      "collectieve-schuldenregeling"
+      "collectieve-schuldenregeling",
+      "ondernemingsrechtbank",
+      "vereffening"
     ],
     "sources": [
       {
@@ -642,6 +769,47 @@
     "first_published": "2026-11-17"
   },
   {
+    "id": "fusie",
+    "term_nl": "fusie",
+    "term_fr": "fusion",
+    "equivalence_fr": "La fusie est la fusion : l'opération par laquelle une ou plusieurs sociétés transfèrent l'intégralité de leur patrimoine à une autre société, existante ou nouvelle, par suite d'une dissolution sans liquidation, contre des parts ou actions remises à leurs associés ou actionnaires. Le livre 12 du Code des sociétés et des associations définit dans les deux langues la « fusie door overneming », la fusion par absorption, à l'article 12:2, et la « fusie door oprichting van een nieuwe vennootschap », la fusion par constitution d'une nouvelle société, à l'article 12:3.",
+    "equivalence_nl": "De fusie is in het Frans de fusion: de rechtshandeling waarbij het gehele vermogen van één of meer vennootschappen, als gevolg van ontbinding zonder vereffening, op een bestaande of nieuwe vennootschap overgaat tegen uitreiking van aandelen aan hun vennoten of aandeelhouders. Boek 12 van het Wetboek van vennootschappen en verenigingen omschrijft in beide talen de fusie door overneming, « la fusion par absorption », in artikel 12:2, en de fusie door oprichting van een nieuwe vennootschap, « la fusion par constitution d'une nouvelle société », in artikel 12:3.",
+    "pitfall_fr": "« Fusie door overneming » se rend par « fusion par absorption », jamais par « fusion par reprise » ni « par acquisition » ; la « verkrijgende vennootschap » est la société bénéficiaire, non la « société acquéreuse », et la « ontbonden vennootschap » la société dissoute. Le Code rend ici « rechtshandeling » par « opération » et « overgaat » par « transfèrent », là où le mot à mot donnerait « acte juridique » et « passe ». L'« opleg in geld » est la soulte en espèces.\nL'« ontbinding zonder vereffening » est la dissolution sans liquidation, trait qui distingue la fusion de la liquidation ; la « splitsing » voisine est la scission.",
+    "pitfall_nl": "Fusie door overneming wordt « fusion par absorption », nooit « fusion par reprise » of « par acquisition »; de verkrijgende vennootschap is « la société bénéficiaire », niet « la société acquéreuse », en de ontbonden vennootschap « la société dissoute ». Het Wetboek geeft hier rechtshandeling weer met « opération » en overgaat met « transfèrent », waar woord voor woord « acte juridique » en « passe » zou opleveren. De opleg in geld is « la soulte en espèces ».\nDe ontbinding zonder vereffening is « la dissolution sans liquidation », het kenmerk dat de fusie van de vereffening onderscheidt; de verwante splitsing is « la scission ».",
+    "example_nl": "De fusie door overneming werd goedgekeurd door de algemene vergadering van elke betrokken vennootschap.",
+    "example_fr": "La fusion par absorption a été approuvée par l’assemblée générale de chaque société concernée.",
+    "related": [
+      "splitsing",
+      "vereffening",
+      "vennootschap",
+      "aandeelhouder",
+      "algemene-vergadering"
+    ],
+    "sources": [
+      {
+        "instrument_nl": "Wetboek van vennootschappen en verenigingen",
+        "instrument_fr": "Code des sociétés et des associations",
+        "article": "12:2",
+        "quote_nl": "Fusie door overneming is de rechtshandeling waarbij het gehele vermogen van één of meer vennootschappen, zowel de rechten als de verplichtingen, als gevolg van ontbinding zonder vereffening op een andere vennootschap overgaat […]",
+        "quote_fr": "La fusion par absorption est l’opération par laquelle une ou plusieurs sociétés transfèrent à une autre société, par suite d’une dissolution sans liquidation, l’intégralité de leur patrimoine, activement et passivement […]",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/2019/03/23/2019A40586/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/2019/03/23/2019A40586/justel"
+      },
+      {
+        "instrument_nl": "Wetboek van vennootschappen en verenigingen",
+        "instrument_fr": "Code des sociétés et des associations",
+        "article": "12:3",
+        "quote_nl": "Fusie door oprichting van een nieuwe vennootschap is de rechtshandeling waarbij het gehele vermogen van verscheidene vennootschappen […] op een nieuwe door hen opgerichte vennootschap overgaat […]",
+        "quote_fr": "La fusion par constitution d’une nouvelle société est l’opération par laquelle plusieurs sociétés transfèrent à une nouvelle société qu’elles constituent […]",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/2019/03/23/2019A40586/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/2019/03/23/2019A40586/justel"
+      }
+    ],
+    "page_fr": "https://bysaro.be/lexique/fusie.html",
+    "page_nl": "https://bysaro.be/nl/lexicon/fusie.html",
+    "first_published": "2026-11-21"
+  },
+  {
     "id": "gerechtelijke-reorganisatie",
     "term_nl": "gerechtelijke reorganisatie",
     "term_fr": "réorganisation judiciaire",
@@ -654,6 +822,7 @@
     "related": [
       "faillissement",
       "curator",
+      "ondernemingsrechtbank",
       "verzoekschrift"
     ],
     "sources": [
@@ -976,7 +1145,8 @@
     "related": [
       "vruchtgebruik",
       "erfdienstbaarheid",
-      "notariele-akte"
+      "notariele-akte",
+      "algemene-vergadering"
     ],
     "sources": [
       {
@@ -1081,6 +1251,47 @@
     ],
     "page_fr": "https://bysaro.be/lexique/onderhandse-akte.html",
     "page_nl": "https://bysaro.be/nl/lexicon/onderhandse-akte.html",
+    "first_published": "2026-11-21"
+  },
+  {
+    "id": "ondernemingsrechtbank",
+    "term_nl": "ondernemingsrechtbank",
+    "term_fr": "tribunal de l’entreprise",
+    "equivalence_fr": "L'ondernemingsrechtbank est le tribunal de l'entreprise : la juridiction qui connaît en premier ressort des contestations entre entreprises, des litiges de sociétés et des procédures d'insolvabilité. Le Code judiciaire pose le couple dans les deux langues à l'article 573, et le Code des sociétés et des associations le reprend à l'article 2:44, où le tribunal « spreekt de nietigheid van een besluit uit », « prononce la nullité d'une décision ».",
+    "equivalence_nl": "De ondernemingsrechtbank is in het Frans de tribunal de l'entreprise: het rechtscollege dat in eerste aanleg kennisneemt van geschillen tussen ondernemingen, vennootschapsgeschillen en insolventieprocedures. Het Gerechtelijk Wetboek zet het paar in beide talen in artikel 573, en het Wetboek van vennootschappen en verenigingen herneemt het in artikel 2:44, waar de rechtbank « de nietigheid van een besluit uitspreekt », « prononce la nullité d'une décision ».",
+    "pitfall_fr": "« Tribunal de commerce » est le nom d'avant le 1er novembre 2018, la « rechtbank van koophandel », qui survit dans quelques articles du livre XX du Code de droit économique ; un texte d'aujourd'hui dit « tribunal de l'entreprise », au singulier, avec l'article : ni « tribunal des entreprises » ni « tribunal d'entreprise ». L'« onderneming » est l'entreprise, « neemt kennis van » se rend par « connaît de », et « in eerste aanleg » par « en premier ressort ».\nLa « griffie van de ondernemingsrechtbank » de l'article 2:7 est le greffe du tribunal de l'entreprise, et son « voorzitter », saisi « in kort geding » à l'article 2:46, le président du tribunal de l'entreprise, qui statue en référé.",
+    "pitfall_nl": "« Tribunal de commerce » is de naam van vóór 1 november 2018, de rechtbank van koophandel, die in enkele artikelen van boek XX van het Wetboek van economisch recht voortleeft; een tekst van vandaag zegt « tribunal de l'entreprise », in het enkelvoud, met lidwoord: noch « tribunal des entreprises » noch « tribunal d'entreprise ». De onderneming is « l'entreprise », « neemt kennis van » wordt « connaît de », en « in eerste aanleg » « en premier ressort ».\nDe griffie van de ondernemingsrechtbank van artikel 2:7 is « le greffe du tribunal de l'entreprise », en haar voorzitter, in kort geding gevat in artikel 2:46, « le président du tribunal de l'entreprise », die « en référé » uitspraak doet.",
+    "example_nl": "De vordering werd ingesteld voor de ondernemingsrechtbank van de zetel van de vennootschap.",
+    "example_fr": "La demande a été introduite devant le tribunal de l’entreprise du siège de la société.",
+    "related": [
+      "faillissement",
+      "gerechtelijke-reorganisatie",
+      "vennootschap",
+      "kort-geding",
+      "vonnis"
+    ],
+    "sources": [
+      {
+        "instrument_nl": "Gerechtelijk Wetboek",
+        "instrument_fr": "Code judiciaire",
+        "article": "573",
+        "quote_nl": "De ondernemingsrechtbank neemt in eerste aanleg kennis van de geschillen tussen ondernemingen als bedoeld in artikel I.1, 1°, van het Wetboek van economisch recht, die niet vallen onder de bijzondere bevoegdheid van andere rechtscolleges […]",
+        "quote_fr": "Le tribunal de l’entreprise connaît en premier ressort des contestations entre entreprises visées à l’article I.1, 1°, du Code de droit économique, qui ne relèvent pas de la compétence spéciale d’autres juridictions […]",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/1967/10/10/1967101054/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/1967/10/10/1967101054/justel"
+      },
+      {
+        "instrument_nl": "Wetboek van vennootschappen en verenigingen",
+        "instrument_fr": "Code des sociétés et des associations",
+        "article": "2:44",
+        "quote_nl": "De ondernemingsrechtbank spreekt de nietigheid van een besluit uit op verzoek van de rechtspersoon of een persoon die belang heeft bij de naleving van de rechtsregel die niet is nagekomen.",
+        "quote_fr": "Le tribunal de l’entreprise prononce la nullité d’une décision à la requête de la personne morale ou d’une personne qui a intérêt au respect de la règle de droit méconnue.",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/2019/03/23/2019A40586/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/2019/03/23/2019A40586/justel"
+      }
+    ],
+    "page_fr": "https://bysaro.be/lexique/ondernemingsrechtbank.html",
+    "page_nl": "https://bysaro.be/nl/lexicon/ondernemingsrechtbank.html",
     "first_published": "2026-11-21"
   },
   {
@@ -1244,6 +1455,88 @@
     "first_published": "2026-11-17"
   },
   {
+    "id": "splitsing",
+    "term_nl": "splitsing",
+    "term_fr": "scission",
+    "equivalence_fr": "La splitsing est la scission : l'opération par laquelle une société transfère l'intégralité de son patrimoine à plusieurs sociétés, existantes ou nouvelles, par suite de sa dissolution sans liquidation, contre des parts ou actions remises à ses associés ou actionnaires. Le livre 12 du Code des sociétés et des associations définit dans les deux langues la « splitsing door overneming », la scission par absorption, à l'article 12:4, et la « splitsing door oprichting van nieuwe vennootschappen », la scission par constitution de nouvelles sociétés, à l'article 12:5.",
+    "equivalence_nl": "De splitsing is in het Frans de scission: de rechtshandeling waarbij het gehele vermogen van een vennootschap, als gevolg van haar ontbinding zonder vereffening, op verscheidene bestaande of nieuwe vennootschappen overgaat tegen uitreiking van aandelen aan haar vennoten of aandeelhouders. Boek 12 van het Wetboek van vennootschappen en verenigingen omschrijft in beide talen de splitsing door overneming, « la scission par absorption », in artikel 12:4, en de splitsing door oprichting van nieuwe vennootschappen, « la scission par constitution de nouvelles sociétés », in artikel 12:5.",
+    "pitfall_fr": "« Division », « séparation », « démembrement » et « split » traduisent l'image ; le Code dit « scission ». « Splitsing door overneming » se rend par « scission par absorption », non « par reprise » ; les « verkrijgende vennootschappen » sont les sociétés bénéficiaires, la « ontbonden vennootschap » la société dissoute, et les « vennoten of aandeelhouders » les associés ou actionnaires de la société scindée.\nComme la fusion, la scission suppose une « ontbinding zonder vereffening », une dissolution sans liquidation, avec le cas échéant une « opleg in geld », une soulte en espèces, limitée au dixième de la valeur nominale.",
+    "pitfall_nl": "« Division », « séparation », « démembrement » en « split » vertalen het beeld; het Wetboek zegt « scission ». Splitsing door overneming wordt « scission par absorption », niet « par reprise »; de verkrijgende vennootschappen zijn « les sociétés bénéficiaires », de ontbonden vennootschap « la société dissoute », en de vennoten of aandeelhouders « les associés ou actionnaires » van de gesplitste vennootschap.\nZoals de fusie veronderstelt de splitsing een ontbinding zonder vereffening, « une dissolution sans liquidation », in voorkomend geval met een opleg in geld, « une soulte en espèces », beperkt tot een tiende van de nominale waarde.",
+    "example_nl": "De splitsing door overneming werd in beide vennootschappen bij notariële akte vastgesteld.",
+    "example_fr": "La scission par absorption a été constatée par acte notarié dans les deux sociétés.",
+    "related": [
+      "fusie",
+      "vereffening",
+      "vennootschap",
+      "aandeelhouder",
+      "notariele-akte"
+    ],
+    "sources": [
+      {
+        "instrument_nl": "Wetboek van vennootschappen en verenigingen",
+        "instrument_fr": "Code des sociétés et des associations",
+        "article": "12:4",
+        "quote_nl": "Splitsing door overneming is de rechtshandeling waarbij het gehele vermogen van een vennootschap, zowel de rechten als de verplichtingen, als gevolg van haar ontbinding zonder vereffening, op verscheidene vennootschappen overgaat […]",
+        "quote_fr": "La scission par absorption est l’opération par laquelle une société transfère à plusieurs sociétés, par suite de sa dissolution sans liquidation, l’intégralité de son patrimoine, activement et passivement […]",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/2019/03/23/2019A40586/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/2019/03/23/2019A40586/justel"
+      },
+      {
+        "instrument_nl": "Wetboek van vennootschappen en verenigingen",
+        "instrument_fr": "Code des sociétés et des associations",
+        "article": "12:5",
+        "quote_nl": "Splitsing door oprichting van nieuwe vennootschappen is de rechtshandeling waarbij het gehele vermogen van een vennootschap […] op verscheidene nieuwe door haar opgerichte vennootschappen overgaat […]",
+        "quote_fr": "La scission par constitution de nouvelles sociétés est l’opération par laquelle une société transfère à plusieurs sociétés qu’elle constitue […]",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/2019/03/23/2019A40586/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/2019/03/23/2019A40586/justel"
+      }
+    ],
+    "page_fr": "https://bysaro.be/lexique/splitsing.html",
+    "page_nl": "https://bysaro.be/nl/lexicon/splitsing.html",
+    "first_published": "2026-11-21"
+  },
+  {
+    "id": "statuten",
+    "term_nl": "statuten",
+    "term_fr": "statuts",
+    "equivalence_fr": "Les statuten sont les statuts : l'acte qui fixe la forme, la dénomination, le siège, l'objet et le fonctionnement de la société, toujours au pluriel. Le Code des sociétés et des associations pose le couple dans les deux langues à l'article 5:81, « de statuten kunnen », « les statuts peuvent », et à l'article 2:71, qui soumet la dissolution volontaire à une « statutenwijziging », une modification des statuts.",
+    "equivalence_nl": "De statuten zijn in het Frans de statuts: de akte die de rechtsvorm, de naam, de zetel, het voorwerp en de werking van de vennootschap vastlegt, altijd in het meervoud. Het Wetboek van vennootschappen en verenigingen zet het paar in beide talen in artikel 5:81, « de statuten kunnen », « les statuts peuvent », en in artikel 2:71, dat de vrijwillige ontbinding aan een statutenwijziging, « une modification des statuts », onderwerpt.",
+    "pitfall_fr": "« Statut » au singulier désigne une condition juridique, le statut du personnel, le statut social ; les statuts d'une société sont toujours au pluriel. « Règlement », « charte » et « acte de société » décrivent. « Statutair » se rend par « statutaire » : une « statutaire bepaling » est une disposition statutaire, une « andersluidende statutaire bepaling » une disposition contraire des statuts, à l'article 2:41. La « statutenwijziging » est la modification des statuts, non la « révision ».\nL'« oprichtingsakte » est l'acte constitutif, qui contient les premiers statuts ; la « statutaire zetel » de l'article 15:30 est le siège statutaire.",
+    "pitfall_nl": "« Statut » in het enkelvoud is een rechtspositie, het personeelsstatuut, het sociaal statuut; de statuten van een vennootschap zijn altijd meervoud. « Règlement », « charte » en « acte de société » omschrijven. « Statutair » wordt « statutaire »: een statutaire bepaling is « une disposition statutaire », een andersluidende statutaire bepaling « une disposition contraire des statuts », in artikel 2:41. De statutenwijziging is « la modification des statuts », niet « la révision ».\nDe oprichtingsakte is « l'acte constitutif », die de eerste statuten bevat; de statutaire zetel van artikel 15:30 is « le siège statutaire ».",
+    "example_nl": "De statuten bepalen dat de vennootschap wordt bestuurd door drie bestuurders.",
+    "example_fr": "Les statuts prévoient que la société est administrée par trois administrateurs.",
+    "related": [
+      "algemene-vergadering",
+      "vennootschap",
+      "bestuurder",
+      "notariele-akte",
+      "authentieke-akte"
+    ],
+    "sources": [
+      {
+        "instrument_nl": "Wetboek van vennootschappen en verenigingen",
+        "instrument_fr": "Code des sociétés et des associations",
+        "article": "5:81",
+        "quote_nl": "De statuten kunnen de bevoegdheden van de algemene vergadering uitbreiden.",
+        "quote_fr": "Les statuts peuvent étendre les pouvoirs de l’assemblée générale.",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/2019/03/23/2019A40586/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/2019/03/23/2019A40586/justel"
+      },
+      {
+        "instrument_nl": "Wetboek van vennootschappen en verenigingen",
+        "instrument_fr": "Code des sociétés et des associations",
+        "article": "2:71, § 1er",
+        "quote_nl": "Het besluit van de algemene vergadering tot ontbinding van een besloten vennootschap, een coöperatieve vennootschap, een naamloze vennootschap, een Europese vennootschap of een Europese coöperatieve vennootschap, dat op elk ogenblik kan worden genomen, vereist een statutenwijziging.",
+        "quote_fr": "La décision de l’assemblée générale de dissolution de la société à responsabilité limitée, la société coopérative, la société anonyme, la société européenne ou la société coopérative européenne, qui peut être prise à tout moment, requiert une modification des statuts.",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/2019/03/23/2019A40586/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/2019/03/23/2019A40586/justel"
+      }
+    ],
+    "page_fr": "https://bysaro.be/lexique/statuten.html",
+    "page_nl": "https://bysaro.be/nl/lexicon/statuten.html",
+    "first_published": "2026-11-21"
+  },
+  {
     "id": "syntheseconclusies",
     "term_nl": "syntheseconclusies",
     "term_fr": "conclusions de synthèse",
@@ -1356,6 +1649,88 @@
     "first_published": "2026-11-17"
   },
   {
+    "id": "vennootschap",
+    "term_nl": "vennootschap",
+    "term_fr": "société",
+    "equivalence_fr": "La vennootschap est la société : le groupement constitué par un acte juridique par lequel une ou plusieurs personnes, les associés, font un apport pour exercer une activité et en partager l'avantage patrimonial. Le Code des sociétés et des associations, loi du 23 mars 2019 en vigueur depuis le 1er mai 2019, la définit dans les deux langues à l'article 1:1 et nomme à l'article 1:5 la « maatschap », la société simple, puis les sept sociétés dotées de la personnalité juridique.",
+    "equivalence_nl": "De vennootschap is in het Frans de société: het samenwerkingsverband dat wordt opgericht bij een rechtshandeling waarbij één of meer personen, de vennoten, een inbreng doen om een activiteit uit te oefenen en het vermogensvoordeel te delen. Het Wetboek van vennootschappen en verenigingen, wet van 23 maart 2019, in werking sinds 1 mei 2019, omschrijft haar in beide talen in artikel 1:1 en noemt in artikel 1:5 de maatschap, « la société simple », en daarna de zeven vennootschappen met rechtspersoonlijkheid.",
+    "pitfall_fr": "« Entreprise », « compagnie » et « firme » décrivent ; le Code dit « société », et l'« onderneming » est l'entreprise, notion plus large du Code de droit économique. Les formes ont leur nom fixé par l'article 1:5 : la « besloten vennootschap », BV, est la société à responsabilité limitée, SRL, et non plus la SPRL ; la « naamloze vennootschap », NV, la société anonyme, SA ; la « coöperatieve vennootschap », CV, la société coopérative, SC ; la « vennootschap onder firma », VOF, la société en nom collectif, SNC ; la « commanditaire vennootschap », CommV, la société en commandite, SComm.\nLe « vennoot » est l'associé, l'« inbreng » l'apport, et le « Wetboek van vennootschappen en verenigingen », WVV, le Code des sociétés et des associations, CSA.",
+    "pitfall_nl": "« Entreprise », « compagnie » en « firme » omschrijven; het Wetboek zegt « société », en de onderneming is « l'entreprise », het ruimere begrip van het Wetboek van economisch recht. De rechtsvormen hebben hun vaste naam in artikel 1:5: de besloten vennootschap, BV, is « la société à responsabilité limitée », SRL, en niet langer « la SPRL »; de naamloze vennootschap, NV, « la société anonyme », SA; de coöperatieve vennootschap, CV, « la société coopérative », SC; de vennootschap onder firma, VOF, « la société en nom collectif », SNC; de commanditaire vennootschap, CommV, « la société en commandite », SComm.\nDe vennoot is « l'associé », de inbreng « l'apport », en het Wetboek van vennootschappen en verenigingen, WVV, « le Code des sociétés et des associations », CSA.",
+    "example_nl": "De vennootschap werd bij authentieke akte opgericht en heeft haar zetel te Brussel.",
+    "example_fr": "La société a été constituée par acte authentique et a son siège à Bruxelles.",
+    "related": [
+      "aandeelhouder",
+      "statuten",
+      "bestuurder",
+      "ondernemingsrechtbank",
+      "faillissement"
+    ],
+    "sources": [
+      {
+        "instrument_nl": "Wetboek van vennootschappen en verenigingen",
+        "instrument_fr": "Code des sociétés et des associations",
+        "article": "1:1",
+        "quote_nl": "Een vennootschap wordt opgericht bij een rechtshandeling door één of meer personen, vennoten genaamd, die een inbreng doen.",
+        "quote_fr": "Une société est constituée par un acte juridique par lequel une ou plusieurs personnes, dénommées associés, font un apport.",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/2019/03/23/2019A40586/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/2019/03/23/2019A40586/justel"
+      },
+      {
+        "instrument_nl": "Wetboek van vennootschappen en verenigingen",
+        "instrument_fr": "Code des sociétés et des associations",
+        "article": "1:5, § 1er",
+        "quote_nl": "De maatschap is een vennootschap zonder rechtspersoonlijkheid.",
+        "quote_fr": "La société simple est une société qui est dépourvue de personnalité juridique.",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/2019/03/23/2019A40586/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/2019/03/23/2019A40586/justel"
+      }
+    ],
+    "page_fr": "https://bysaro.be/lexique/vennootschap.html",
+    "page_nl": "https://bysaro.be/nl/lexicon/vennootschap.html",
+    "first_published": "2026-11-21"
+  },
+  {
+    "id": "vereffening",
+    "term_nl": "vereffening",
+    "term_fr": "liquidation",
+    "equivalence_fr": "La vereffening est la liquidation : la phase qui suit la dissolution de la société, pendant laquelle le liquidateur réalise l'actif, paie les créanciers et répartit le solde, jusqu'à la clôture. Le titre 8 du livre 2 du Code des sociétés et des associations, « Ontbinding en vereffening », « De la dissolution et de la liquidation », pose le couple dans les deux langues à l'article 2:76, « in vereffening », « en liquidation », et à l'article 2:84, qui nomme les « vereffenaars », les liquidateurs.",
+    "equivalence_nl": "De vereffening is in het Frans de liquidation: de fase na de ontbinding van de vennootschap, waarin de vereffenaar het actief te gelde maakt, de schuldeisers betaalt en het saldo verdeelt, tot aan de sluiting. Titel 8 van boek 2 van het Wetboek van vennootschappen en verenigingen, « Ontbinding en vereffening », « De la dissolution et de la liquidation », zet het paar in beide talen in artikel 2:76, « in vereffening », « en liquidation », en in artikel 2:84, dat de vereffenaars, « les liquidateurs », noemt.",
+    "pitfall_fr": "« Règlement » et « apurement » rendent d'autres opérations ; le Code dit « liquidation ». Les mots de la famille suivent : le « vereffenaar » se rend par « liquidateur », l'« ontbinding » par « dissolution », la « sluiting van de vereffening » par « clôture de la liquidation », et une société « in vereffening » est « en liquidation », mention que toutes ses pièces portent. L'« ontbinding zonder vereffening » de la fusion est la dissolution sans liquidation.\nLe mot sort du droit des sociétés : la « gerechtelijke vereffening-verdeling » du Code judiciaire est la liquidation-partage judiciaire.",
+    "pitfall_nl": "« Règlement » en « apurement » geven andere verrichtingen weer; het Wetboek zegt « liquidation ». De woordfamilie volgt: de vereffenaar wordt « le liquidateur », de ontbinding « la dissolution », de sluiting van de vereffening « la clôture de la liquidation », en een vennootschap in vereffening is « en liquidation », vermelding die al haar stukken dragen. De ontbinding zonder vereffening van de fusie is « la dissolution sans liquidation ».\nHet woord reikt verder dan het vennootschapsrecht: de gerechtelijke vereffening-verdeling van het Gerechtelijk Wetboek is « la liquidation-partage judiciaire ».",
+    "example_nl": "De vereffenaar heeft de vereffening afgesloten en het saldo onder de aandeelhouders verdeeld.",
+    "example_fr": "Le liquidateur a clôturé la liquidation et réparti le solde entre les actionnaires.",
+    "related": [
+      "fusie",
+      "splitsing",
+      "faillissement",
+      "curator",
+      "statuten"
+    ],
+    "sources": [
+      {
+        "instrument_nl": "Wetboek van vennootschappen en verenigingen",
+        "instrument_fr": "Code des sociétés et des associations",
+        "article": "2:76",
+        "quote_nl": "Een vennootschap wordt na ontbinding geacht voort te bestaan voor haar vereffening tot aan de sluiting daarvan. Alle stukken uitgaande van een ontbonden vennootschap vermelden dat zij in vereffening is.",
+        "quote_fr": "Les sociétés sont, après leur dissolution, réputées exister pour leur liquidation jusqu’à la clôture de celle-ci. Toutes les pièces émanant d’une société dissoute mentionnent qu’elle est en liquidation.",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/2019/03/23/2019A40586/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/2019/03/23/2019A40586/justel"
+      },
+      {
+        "instrument_nl": "Wetboek van vennootschappen en verenigingen",
+        "instrument_fr": "Code des sociétés et des associations",
+        "article": "2:84",
+        "quote_nl": "[…] moet de benoeming van de vereffenaars in de statuten of door de algemene vergadering aan de voorzitter van de rechtbank ter bevestiging worden voorgelegd.",
+        "quote_fr": "[…] la nomination des liquidateurs par les statuts ou par l’assemblée générale doit être soumise au président du tribunal pour confirmation.",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/2019/03/23/2019A40586/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/2019/03/23/2019A40586/justel"
+      }
+    ],
+    "page_fr": "https://bysaro.be/lexique/vereffening.html",
+    "page_nl": "https://bysaro.be/nl/lexicon/vereffening.html",
+    "first_published": "2026-11-21"
+  },
+  {
     "id": "verzet",
     "term_nl": "verzet",
     "term_fr": "opposition",
@@ -1448,7 +1823,9 @@
     "related": [
       "onderhandse-akte",
       "authentieke-akte",
-      "notariele-akte"
+      "notariele-akte",
+      "algemene-vergadering",
+      "bestuurder"
     ],
     "sources": [
       {
@@ -1592,6 +1969,47 @@
     ],
     "page_fr": "https://bysaro.be/lexique/vruchtgebruik.html",
     "page_nl": "https://bysaro.be/nl/lexicon/vruchtgebruik.html",
+    "first_published": "2026-11-21"
+  },
+  {
+    "id": "zaakvoerder",
+    "term_nl": "zaakvoerder",
+    "term_fr": "gérant",
+    "equivalence_fr": "Le zaakvoerder est le gérant : le mandataire, associé ou non, qui administre une société sans conseil d'administration. Le Code des sociétés et des associations pose le couple dans les deux langues à l'article 4:8, pour la société simple, « bestuurd door één of meer zaakvoerders », « administrée par un ou plusieurs gérants », et à l'article 2:79, qui nomme les « vennoten-zaakvoerders », les associés-gérants, de la société en nom collectif et de la société en commandite.",
+    "equivalence_nl": "De zaakvoerder is in het Frans de gérant: de lasthebber, al dan niet vennoot, die een vennootschap zonder raad van bestuur bestuurt. Het Wetboek van vennootschappen en verenigingen zet het paar in beide talen in artikel 4:8, voor de maatschap, « bestuurd door één of meer zaakvoerders », « administrée par un ou plusieurs gérants », en in artikel 2:79, dat de vennoten-zaakvoerders, « les associés-gérants », van de vennootschap onder firma en de commanditaire vennootschap noemt.",
+    "pitfall_fr": "Le piège tient à la date. Jusqu'au 30 avril 2019, la SPRL avait un gérant, la BVBA un « zaakvoerder » ; depuis le Code de 2019, la société à responsabilité limitée est administrée par des « bestuurders », des administrateurs, et le mot « zaakvoerder » ne subsiste que dans la société simple, la société en nom collectif et la société en commandite. Un acte d'avant 2019 se traduit avec « gérant » ; des statuts d'aujourd'hui, avec « administrateur ». « Zaakvoerder » ne se rend jamais par « directeur », « gestionnaire » ni « manager ».\nLe gérant de l'article 4:8 a « de hoedanigheid van lasthebber », « la qualité de mandataire », et les pouvoirs des gérants se lisent dans « de akte van benoeming », « l'acte qui les désigne ».",
+    "pitfall_nl": "De valkuil zit in de datum. Tot 30 april 2019 had de BVBA een zaakvoerder, de SPRL « un gérant »; sinds het Wetboek van 2019 wordt de besloten vennootschap bestuurd door bestuurders, « des administrateurs », en blijft het woord zaakvoerder alleen over in de maatschap, de vennootschap onder firma en de commanditaire vennootschap. Een akte van vóór 2019 wordt vertaald met « gérant »; statuten van vandaag met « administrateur ». « Zaakvoerder » wordt nooit « directeur », « gestionnaire » of « manager ».\nDe zaakvoerder van artikel 4:8 heeft « de hoedanigheid van lasthebber », « la qualité de mandataire », en de bevoegdheden van de zaakvoerders staan in « de akte van benoeming », « l'acte qui les désigne ».",
+    "example_nl": "De zaakvoerder van de vennootschap onder firma vertegenwoordigt haar tegenover derden.",
+    "example_fr": "Le gérant de la société en nom collectif la représente à l’égard des tiers.",
+    "related": [
+      "bestuurder",
+      "vennootschap",
+      "volmacht",
+      "statuten",
+      "aandeelhouder"
+    ],
+    "sources": [
+      {
+        "instrument_nl": "Wetboek van vennootschappen en verenigingen",
+        "instrument_fr": "Code des sociétés et des associations",
+        "article": "4:8",
+        "quote_nl": "De vennootschap wordt bestuurd door één of meer zaakvoerders, al dan niet vennoten, met de hoedanigheid van lasthebber, wier bevoegdheden worden vastgesteld door de akte van benoeming.",
+        "quote_fr": "La société est administrée par un ou plusieurs gérants, associés ou non, ayant la qualité de mandataires, dont les pouvoirs sont déterminés par l’acte qui les désigne.",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/2019/03/23/2019A40586/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/2019/03/23/2019A40586/justel"
+      },
+      {
+        "instrument_nl": "Wetboek van vennootschappen en verenigingen",
+        "instrument_fr": "Code des sociétés et des associations",
+        "article": "2:79",
+        "quote_nl": "[…] de vennoten-zaakvoerders in de vennootschappen onder firma of in de commanditaire vennootschappen […]",
+        "quote_fr": "[…] les associés-gérants dans les sociétés en nom collectif ou en commandite […]",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/2019/03/23/2019A40586/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/2019/03/23/2019A40586/justel"
+      }
+    ],
+    "page_fr": "https://bysaro.be/lexique/zaakvoerder.html",
+    "page_nl": "https://bysaro.be/nl/lexicon/zaakvoerder.html",
     "first_published": "2026-11-21"
   }
 ]
