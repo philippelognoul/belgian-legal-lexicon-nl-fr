@@ -58,13 +58,15 @@ Fifty-nine references to official Belgian texts: the Judicial Code (Gerechtelijk
 
 ## Scope and limits
 
-Version 1.0 of 21 November 2026 holds 30 terms; the lexicon on bysaro.be grows every week and later versions will follow. The entries cover Belgian law only: Dutch legal terms used in the Netherlands often carry another meaning. The lexicon is a translation aid and gives no legal advice.
+Version 1.1 of 21 November 2026 holds 30 terms with full entries; version 1.0 of the same day held the terms, their equivalents and the source references only. The lexicon on bysaro.be grows every week and later versions will follow. The entries cover Belgian law only: Dutch legal terms used in the Netherlands often carry another meaning. The lexicon is a translation aid and gives no legal advice.
 
 ## Licence and citation
 
 Lexicon entries: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). The quoted provisions come from the official texts linked in each entry.
 
-Please cite: Philippe Lognoul, *Belgian legal lexicon, Dutch-French (procedure)*, version 1.0, 2026, https://bysaro.be/lexique/.
+Please cite: Philippe Lognoul, *Belgian legal lexicon, Dutch-French (procedure)*, version 1.1, 2026, Zenodo, https://doi.org/10.5281/zenodo.24416443.
+
+Archived on Zenodo, all versions: https://doi.org/10.5281/zenodo.24416443
 
 ## Français
 
