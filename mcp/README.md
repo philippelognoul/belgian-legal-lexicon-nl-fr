@@ -1,4 +1,4 @@
-﻿# Belgian legal lexicon — MCP server
+# Belgian legal lexicon — MCP server
 
 Read-only server that lets an assistant (Claude, ChatGPT and any MCP client) look up the Dutch terms of Belgian court procedure in this lexicon, with their French equivalent, the article of law that fixes it in both languages, the usual pitfall and a sample sentence.
 

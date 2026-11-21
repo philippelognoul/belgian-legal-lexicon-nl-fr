@@ -1,4 +1,4 @@
-﻿[project]
+[project]
 name = "belgian-legal-lexicon-mcp"
 version = "1.2.0"
 description = "Read-only MCP server for the Belgian legal lexicon, Dutch-French (procedure)"
