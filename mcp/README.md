@@ -20,3 +20,5 @@ Tools: `lookup_term`, `search_terms`, `list_terms`. No account, no write access,
 Installed this way, the server fetches `data/lexicon.jsonl` from this repository; run from a clone, it reads the local file.
 
 Author: Philippe Lognoul, translator since 1992 (ORCID 0009-0000-3951-5667). Data: CC BY 4.0. Cite: https://doi.org/10.5281/zenodo.24416443. Belgian law only; a translation aid, not legal advice.
+
+<!-- mcp-name: io.github.philippelognoul/belgian-legal-lexicon-nl-fr -->
