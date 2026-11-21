@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this lexicon, please cite it as below."
+title: "Belgian legal lexicon, Dutch-French (procedure)"
+type: dataset
+version: "1.0"
+date-released: "2026-11-21"
+license: CC-BY-4.0
+url: "https://bysaro.be/lexique/"
+authors:
+  - family-names: Lognoul
+    given-names: Philippe
+    orcid: "https://orcid.org/0009-0000-3951-5667"
+keywords:
+  - legal translation
+  - terminology
+  - Belgian law
+  - Dutch
+  - French
