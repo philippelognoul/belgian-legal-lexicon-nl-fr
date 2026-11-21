@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this lexicon, please cite it as below."
-title: "Belgian legal lexicon, Dutch-French (procedure)"
+title: "Belgian legal lexicon, Dutch-French"
 type: dataset
-version: "1.1"
+version: "1.2"
 doi: 10.5281/zenodo.24416443
 date-released: "2026-11-21"
 license: CC-BY-4.0

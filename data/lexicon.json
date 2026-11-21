@@ -40,6 +40,47 @@
     "first_published": "2026-11-03"
   },
   {
+    "id": "authentieke-akte",
+    "term_nl": "authentieke akte",
+    "term_fr": "acte authentique",
+    "equivalence_fr": "L'authentieke akte est l'acte authentique : l'écrit reçu, dans les formes prescrites, par un officier public ou ministériel compétent, notaire, huissier de justice ou officier de l'état civil. Le livre 8 du Code civil, en vigueur depuis le 1er novembre 2020, le définit dans les deux langues à l'article 8.1 et en fixe la force probante à l'article 8.17 : il fait foi « tot betichting van valsheid », « jusqu'à inscription de faux ».",
+    "equivalence_nl": "De authentieke akte is in het Frans de acte authentique: het geschrift dat in de wettelijke vorm wordt verleden voor een bevoegde openbare of ministeriële ambtenaar, notaris, gerechtsdeurwaarder of ambtenaar van de burgerlijke stand. Boek 8 van het Burgerlijk Wetboek, in werking sinds 1 november 2020, omschrijft haar in beide talen in artikel 8.1 en bepaalt haar bewijswaarde in artikel 8.17: zij levert bewijs op « tot betichting van valsheid », « jusqu'à inscription de faux ».",
+    "pitfall_fr": "« Acte officiel », « acte public » et « document authentifié » décrivent ; le Code dit « acte authentique ». Le mot ne se détache pas de son contexte : à l'article 1er de la loi sur le notariat, les actes « waaraan partijen de authenticiteit van overheidsakten moeten of willen doen verlenen » sont ceux « auxquels les parties doivent ou veulent faire donner le caractère d'authenticité attaché aux actes de l'autorité publique ». Son contraire est l'« onderhandse akte », l'acte sous signature privée. La « betichting van valsheid » est l'inscription de faux, et le « verlijden » de l'acte, sa réception.\nL'« openbare of ministeriële ambtenaar » est l'officier public ou ministériel ; « instrumenteren » se rend par « instrumenter », mot du texte.",
+    "pitfall_nl": "« Acte officiel », « acte public » en « document authentifié » omschrijven; het Wetboek zegt « acte authentique ». Het woord laat zich niet uit zijn context lichten: in artikel 1 van de wet op het notarisambt zijn de akten « waaraan partijen de authenticiteit van overheidsakten moeten of willen doen verlenen » die « auxquels les parties doivent ou veulent faire donner le caractère d'authenticité attaché aux actes de l'autorité publique ». De tegenhanger is de onderhandse akte, « l'acte sous signature privée ». De betichting van valsheid is « l'inscription de faux », en het verlijden van de akte « sa réception ».\nDe openbare of ministeriële ambtenaar is « l'officier public ou ministériel »; « instrumenteren » wordt « instrumenter », het woord van de tekst.",
+    "example_nl": "De overeenkomst werd bij authentieke akte vastgesteld en overgeschreven.",
+    "example_fr": "La convention a été constatée par acte authentique et transcrite.",
+    "related": [
+      "notariele-akte",
+      "onderhandse-akte",
+      "volmacht",
+      "gerechtsdeurwaarder",
+      "exploot"
+    ],
+    "sources": [
+      {
+        "instrument_nl": "Burgerlijk Wetboek, boek 8",
+        "instrument_fr": "Code civil, livre 8",
+        "article": "8.1, 5°",
+        "quote_nl": "[…] authentieke akte: een geschrift dat in de wettelijke vorm is verleden voor een openbare of ministerieel ambtenaar die de bevoegdheid en hoedanigheid heeft om te instrumenteren […]",
+        "quote_fr": "[…] acte authentique: un écrit reçu, avec les solennités requises, par un officier public ou ministériel ayant compétence et qualité pour instrumenter […]",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/2019/04/13/2019A12168/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/2019/04/13/2019A12168/justel"
+      },
+      {
+        "instrument_nl": "Burgerlijk Wetboek, boek 8",
+        "instrument_fr": "Code civil, livre 8",
+        "article": "8.17",
+        "quote_nl": "Een authentieke akte levert tot betichting van valsheid een bewijs op van wat de openbare of ministeriële ambtenaar persoonlijk heeft verricht of vastgesteld, zonder dat het voor partijen mogelijk is om daarvan af te wijken.",
+        "quote_fr": "L’acte authentique fait foi jusqu’à inscription de faux de ce que l’officier public ou ministériel a personnellement accompli ou constaté, sans possibilité pour les parties d’y déroger.",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/2019/04/13/2019A12168/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/2019/04/13/2019A12168/justel"
+      }
+    ],
+    "page_fr": "https://bysaro.be/lexique/authentieke-akte.html",
+    "page_nl": "https://bysaro.be/nl/lexicon/authentieke-akte.html",
+    "first_published": "2026-11-21"
+  },
+  {
     "id": "beschikking",
     "term_nl": "beschikking",
     "term_fr": "ordonnance",
@@ -482,6 +523,46 @@
     "first_published": "2026-11-17"
   },
   {
+    "id": "erfdienstbaarheid",
+    "term_nl": "erfdienstbaarheid",
+    "term_fr": "servitude",
+    "equivalence_fr": "L'erfdienstbaarheid est la servitude : la charge qui grève un immeuble, le fonds servant, pour l'usage et l'utilité d'un autre immeuble, le fonds dominant. Le livre 3 du Code civil, en vigueur depuis le 1er septembre 2021, la définit dans les deux langues à l'article 3.114 et la classe à l'article 3.115, « zichtbaar of niet zichtbaar », « apparentes ou non apparentes ».",
+    "equivalence_nl": "De erfdienstbaarheid is in het Frans de servitude: de last op een onroerend goed, het lijdend erf, tot gebruik en nut van een ander onroerend goed, het heersend erf. Boek 3 van het Burgerlijk Wetboek, in werking sinds 1 september 2021, omschrijft haar in beide talen in artikel 3.114 en deelt haar in artikel 3.115 in, « zichtbaar of niet zichtbaar », « apparentes ou non apparentes ».",
+    "pitfall_fr": "« Droit de passage » n'est qu'une espèce, l'« erfdienstbaarheid van overgang » ; « charge foncière » et « contrainte » décrivent. Les deux fonds ont leur nom fixé : « lijdend erf » se rend par « fonds servant », « heersend erf » par « fonds dominant », jamais « terrain souffrant » ni « terrain dominant » ; « erf » est ici le fonds, non la cour ni l'héritage. « Zichtbaar » devient « apparent », mot du Code, et non « visible ».\nLa « wettelijke erfdienstbaarheid » est la servitude légale, l'« erfdienstbaarheid door menselijk handelen » la servitude du fait de l'homme, et la « wettelijke erfdienstbaarheid van uitweg » du fonds enclavé la servitude légale de passage.",
+    "pitfall_nl": "« Droit de passage » is maar één soort, de erfdienstbaarheid van overgang; « charge foncière » en « contrainte » omschrijven. De twee erven hebben een vaste naam: het lijdend erf wordt « le fonds servant », het heersend erf « le fonds dominant », nooit « terrain souffrant » of « terrain dominant »; « erf » is hier « le fonds », niet « la cour » of « l'héritage ». « Zichtbaar » wordt « apparent », het woord van het Wetboek, niet « visible ».\nDe wettelijke erfdienstbaarheid is « la servitude légale », de erfdienstbaarheid door menselijk handelen « la servitude du fait de l'homme », en de wettelijke erfdienstbaarheid van uitweg van het ingesloten erf « la servitude légale de passage ».",
+    "example_nl": "Het perceel is bezwaard met een erfdienstbaarheid van overgang ten voordele van het heersend erf.",
+    "example_fr": "La parcelle est grevée d’une servitude de passage au profit du fonds dominant.",
+    "related": [
+      "vruchtgebruik",
+      "mede-eigendom",
+      "notariele-akte",
+      "authentieke-akte"
+    ],
+    "sources": [
+      {
+        "instrument_nl": "Burgerlijk Wetboek, boek 3",
+        "instrument_fr": "Code civil, livre 3",
+        "article": "3.114",
+        "quote_nl": "Een erfdienstbaarheid is een last op een onroerend goed, het lijdend erf, tot gebruik en tot nut van andermans onroerend goed, het heersend erf.",
+        "quote_fr": "Une servitude est une charge grevant un immeuble, dit fonds servant, pour l’usage et l’utilité d’un immeuble appartenant à autrui, dit fonds dominant.",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/2020/02/04/2020A20347/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/2020/02/04/2020A20347/justel"
+      },
+      {
+        "instrument_nl": "Burgerlijk Wetboek, boek 3",
+        "instrument_fr": "Code civil, livre 3",
+        "article": "3.115",
+        "quote_nl": "Erfdienstbaarheden zijn zichtbaar of niet zichtbaar.",
+        "quote_fr": "Les servitudes sont apparentes ou non apparentes.",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/2020/02/04/2020A20347/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/2020/02/04/2020A20347/justel"
+      }
+    ],
+    "page_fr": "https://bysaro.be/lexique/erfdienstbaarheid.html",
+    "page_nl": "https://bysaro.be/nl/lexicon/erfdienstbaarheid.html",
+    "first_published": "2026-11-21"
+  },
+  {
     "id": "exploot",
     "term_nl": "exploot",
     "term_fr": "exploit",
@@ -681,6 +762,46 @@
     "first_published": "2026-11-03"
   },
   {
+    "id": "handelshuur",
+    "term_nl": "handelshuur",
+    "term_fr": "bail commercial",
+    "equivalence_fr": "La handelshuur est le bail commercial : le bail d'un immeuble affecté principalement, par le preneur ou un sous-locataire, à un commerce de détail ou à l'activité d'un artisan en contact avec le public. La loi du 30 avril 1951, devenue la section 2bis du titre VIII de l'ancien Code civil, pose le couple dans ses intitulés, « handelshuur », « baux commerciaux », « bail commercial », et son article 1er en fixe le champ dans les deux langues.",
+    "equivalence_nl": "De handelshuur is in het Frans de bail commercial: de huur van een onroerend goed dat door de huurder of een onderhuurder in hoofdzaak wordt gebruikt voor een kleinhandel of voor het bedrijf van een ambachtsman in contact met het publiek. De wet van 30 april 1951, nu afdeling IIbis van titel VIII van het oud Burgerlijk Wetboek, zet het paar in haar opschriften, « handelshuur », « baux commerciaux », « bail commercial », en artikel 1 bepaalt het toepassingsgebied in beide talen.",
+    "pitfall_fr": "« Location commerciale », « bail de commerce » et « loyer commercial » traduisent les mots ; le texte dit « bail commercial », au pluriel « baux commerciaux ». La « handelshuurwet » est la loi sur les baux commerciaux, la « handelshuurovereenkomst » le bail commercial lui aussi. La « hernieuwing van de huur » est le renouvellement du bail, la « vergoeding wegens uitzetting » l'indemnité d'éviction, la « handelszaak » le fonds de commerce.\nLa matière est régionale depuis 2014 ; les trois versions coexistent sur Justel.",
+    "pitfall_nl": "« Location commerciale », « bail de commerce » en « loyer commercial » vertalen de woorden; de tekst zegt « bail commercial », in het meervoud « baux commerciaux ». De handelshuurwet is « la loi sur les baux commerciaux », de handelshuurovereenkomst eveneens « le bail commercial ». De hernieuwing van de huur is « le renouvellement du bail », de vergoeding wegens uitzetting « l'indemnité d'éviction », de handelszaak « le fonds de commerce ».\nDe materie is sinds 2014 gewestelijk; de drie versies staan naast elkaar op Justel.",
+    "example_nl": "De handelshuur werd voor negen jaar gesloten en de huurder heeft de hernieuwing aangevraagd.",
+    "example_fr": "Le bail commercial a été conclu pour neuf ans et le preneur en a demandé le renouvellement.",
+    "related": [
+      "huurovereenkomst",
+      "pacht",
+      "authentieke-akte",
+      "gerechtsdeurwaarder"
+    ],
+    "sources": [
+      {
+        "instrument_nl": "Oud Burgerlijk Wetboek, afdeling IIbis (handelshuur)",
+        "instrument_fr": "Ancien Code civil, section 2bis (baux commerciaux)",
+        "article": "",
+        "quote_nl": "Regels betreffende de handelshuur in het bijzonder. […] Duur van de handelshuur.",
+        "quote_fr": "Des règles particulières aux baux commerciaux. […] De la durée du bail commercial.",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/1951/04/30/1951043003/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/1951/04/30/1951043003/justel"
+      },
+      {
+        "instrument_nl": "Oud Burgerlijk Wetboek, afdeling IIbis (handelshuur)",
+        "instrument_fr": "Ancien Code civil, section 2bis (baux commerciaux)",
+        "article": "1",
+        "quote_nl": "De bepalingen van deze afdelingen zijn van toepassing op de huur van onroerende goederen of gedeelten van onroerende goederen die, hetzij uitdrukkelijk of stilzwijgend vanaf de ingenottreding van de huurder, hetzij krachtens een uitdrukkelijke overeenkomst van partijen in de loop van de huur, door de huurder of door een onderhuurder in hoofdzaak gebruikt worden voor het uitoefenen van een kleinhandel of voor het bedrijf van een ambachtsman die rechtstreeks in contact staat met het publiek.",
+        "quote_fr": "Tombent sous l’application de la présente section les baux d’immeubles ou de parties d’immeubles qui, soit de manière expresse ou tacite dès l’entrée en jouissance du preneur, soit de l’accord exprès des parties en cours du bail, sont affectés principalement par le preneur ou par un sous-locataire à l’exercice d’un commerce de détail ou à l’activité d’un artisan directement en contact avec le public.",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/1951/04/30/1951043003/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/1951/04/30/1951043003/justel"
+      }
+    ],
+    "page_fr": "https://bysaro.be/lexique/handelshuur.html",
+    "page_nl": "https://bysaro.be/nl/lexicon/handelshuur.html",
+    "first_published": "2026-11-21"
+  },
+  {
     "id": "hoger-beroep",
     "term_nl": "hoger beroep",
     "term_fr": "appel",
@@ -720,6 +841,46 @@
     "page_fr": "https://bysaro.be/lexique/hoger-beroep.html",
     "page_nl": "https://bysaro.be/nl/lexicon/hoger-beroep.html",
     "first_published": "2026-11-10"
+  },
+  {
+    "id": "huurovereenkomst",
+    "term_nl": "huurovereenkomst",
+    "term_fr": "bail",
+    "equivalence_fr": "La huurovereenkomst est le bail : le contrat par lequel le bailleur procure au preneur la jouissance d'un bien pendant un certain temps, contre un loyer. L'ancien Code civil, livre III, titre VIII, toujours en vigueur, pose le couple à l'article 1714, « elke schriftelijke huurovereenkomst », « tout bail écrit », et définit le genre à l'article 1709, « huur van goederen », « louage des choses ».",
+    "equivalence_nl": "De huurovereenkomst is in het Frans de bail: het contract waarbij de verhuurder aan de huurder het genot van een goed verschaft gedurende een zekere tijd, tegen een huurprijs. Het oud Burgerlijk Wetboek, boek III, titel VIII, nog van kracht, zet het paar in artikel 1714, « elke schriftelijke huurovereenkomst », « tout bail écrit », en omschrijft het genus in artikel 1709, « huur van goederen », « louage des choses ».",
+    "pitfall_fr": "« Contrat de location » et « convention de location » sont les mots de la pratique française ; le texte belge écrit « bail » ou « contrat de bail », « huurcontract » à l'article 1743. « Louage » est le genre, dont le bail est l'espèce qui porte sur les choses. Les parties s'appellent « huurder » et « verhuurder », preneur et bailleur dans le Code, locataire et propriétaire dans l'usage ; le « huurprijs » est le loyer, et l'« opzegging » le congé, non la résiliation.\nDepuis 2014, le bail d'habitation, la « woninghuurovereenkomst », relève des Régions ; le bail commercial et le bail à ferme ont leur page.",
+    "pitfall_nl": "« Contrat de location » en « convention de location » zijn de woorden van de Franse praktijk; de Belgische tekst schrijft « bail » of « contrat de bail », « huurcontract » in artikel 1743. « Louage » is het genus, waarvan de huur van goederen de soort is. De partijen heten huurder en verhuurder, « preneur » en « bailleur » in het Wetboek, « locataire » en « propriétaire » in het gebruik; de huurprijs is « le loyer », en de opzegging « le congé », niet « la résiliation ».\nSinds 2014 is de woninghuurovereenkomst, « le bail d'habitation », een gewestelijke bevoegdheid; de handelshuur en de pacht hebben hun eigen pagina.",
+    "example_nl": "De huurovereenkomst werd voor negen jaar gesloten en geregistreerd.",
+    "example_fr": "Le bail a été conclu pour neuf ans et enregistré.",
+    "related": [
+      "handelshuur",
+      "pacht",
+      "onderhandse-akte",
+      "vruchtgebruik"
+    ],
+    "sources": [
+      {
+        "instrument_nl": "Oud Burgerlijk Wetboek",
+        "instrument_fr": "Ancien Code civil",
+        "article": "1714",
+        "quote_nl": "Elke schriftelijke huurovereenkomst moet, afgezien van alle andere modaliteiten, het volgende inhouden : […]",
+        "quote_fr": "Tout bail écrit contient, indépendamment de toutes autres modalités : […]",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/1804/03/21/1804032154/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032154/justel"
+      },
+      {
+        "instrument_nl": "Oud Burgerlijk Wetboek",
+        "instrument_fr": "Ancien Code civil",
+        "article": "1709",
+        "quote_nl": "Huur van goederen is een contract waarbij de ene partij zich verbindt om de andere het genot van een zaak te doen hebben gedurende een zekere tijd, en tegen een bepaalde prijs, die de laatstgenoemde zich verbindt te betalen.",
+        "quote_fr": "Le louage des choses est un contrat par lequel l’une des parties s’oblige à faire jouir l’autre d’une chose pendant un certain temps, et moyennant un certain prix que celle-ci s’oblige de lui payer.",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/1804/03/21/1804032154/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032154/justel"
+      }
+    ],
+    "page_fr": "https://bysaro.be/lexique/huurovereenkomst.html",
+    "page_nl": "https://bysaro.be/nl/lexicon/huurovereenkomst.html",
+    "first_published": "2026-11-21"
   },
   {
     "id": "kort-geding",
@@ -801,6 +962,166 @@
     "page_fr": "https://bysaro.be/lexique/loonbeslag.html",
     "page_nl": "https://bysaro.be/nl/lexicon/loonbeslag.html",
     "first_published": "2026-11-17"
+  },
+  {
+    "id": "mede-eigendom",
+    "term_nl": "mede-eigendom",
+    "term_fr": "copropriété",
+    "equivalence_fr": "La mede-eigendom est la copropriété : le droit de propriété que plusieurs personnes ont sur un même bien, sans qu'aucune puisse revendiquer une partie déterminée. Le livre 3 du Code civil la définit dans les deux langues à l'article 3.68 et nomme ses espèces : « toevallige », fortuite, « vrijwillige », volontaire, et « gedwongen mede-eigendom », copropriété forcée, à l'article 3.78, dont relève la copropriété des immeubles bâtis.",
+    "equivalence_nl": "De mede-eigendom is in het Frans de copropriété: het eigendomsrecht dat verschillende personen op eenzelfde goed hebben, zonder dat één van hen een bepaald gedeelte kan opeisen. Boek 3 van het Burgerlijk Wetboek omschrijft haar in beide talen in artikel 3.68 en benoemt haar soorten: toevallige, « fortuite », vrijwillige, « volontaire », en gedwongen mede-eigendom, « copropriété forcée », in artikel 3.78, waartoe de mede-eigendom van gebouwen behoort.",
+    "pitfall_fr": "« Propriété commune », « propriété collective » et « propriété partagée » décrivent ; le Code dit « copropriété ». « Indivision » est voisin et distinct : l'« onverdeeld goed » est le bien indivis, l'« onverdeeld aandeel » la part indivise. « Gedwongen » devient « forcée », non « obligatoire » ; la « vereniging van mede-eigenaars » est l'association des copropriétaires, et le « syndicus » le syndic.\nLes « gemeenschappelijke delen » sont les parties communes, les « privatieve delen » les parties privatives, la « basisakte » l'acte de base.",
+    "pitfall_nl": "« Propriété commune », « propriété collective » en « propriété partagée » omschrijven; het Wetboek zegt « copropriété ». « Indivision » is verwant en verschillend: het onverdeeld goed is « le bien indivis », het onverdeeld aandeel « la part indivise ». « Gedwongen » wordt « forcée », niet « obligatoire »; de vereniging van mede-eigenaars is « l'association des copropriétaires », en de syndicus « le syndic ».\nDe gemeenschappelijke delen zijn « les parties communes », de privatieve delen « les parties privatives », de basisakte « l'acte de base ».",
+    "example_nl": "De algemene vergadering van de vereniging van mede-eigenaars heeft de werken aan de gemeenschappelijke delen goedgekeurd.",
+    "example_fr": "L’assemblée générale de l’association des copropriétaires a approuvé les travaux aux parties communes.",
+    "related": [
+      "vruchtgebruik",
+      "erfdienstbaarheid",
+      "notariele-akte"
+    ],
+    "sources": [
+      {
+        "instrument_nl": "Burgerlijk Wetboek, boek 3",
+        "instrument_fr": "Code civil, livre 3",
+        "article": "3.68",
+        "quote_nl": "Er is mede-eigendom wanneer verschillende personen op eenzelfde goed of geheel van goederen titularis zijn van een eigendomsrecht, zonder dat elk van hen een exclusief recht op een bepaald gedeelte hiervan kan laten gelden.",
+        "quote_fr": "Il y a copropriété lorsque différentes personnes sont titulaires sur un même bien ou ensemble de biens d’un droit de propriété, sans que l’une d’elles puisse faire valoir un droit exclusif sur une partie déterminée de ceux-ci.",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/2020/02/04/2020A20347/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/2020/02/04/2020A20347/justel"
+      },
+      {
+        "instrument_nl": "Burgerlijk Wetboek, boek 3",
+        "instrument_fr": "Code civil, livre 3",
+        "article": "3.78",
+        "quote_nl": "De gedwongen mede-eigendom is elke vorm van mede-eigendom waarbij het onverdeelde goed vanuit zijn functie of bestemming in mede-eigendom moet zijn.",
+        "quote_fr": "La copropriété forcée est toute forme de copropriété où le bien indivis doit être en copropriété en raison de sa fonction ou de sa destination.",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/2020/02/04/2020A20347/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/2020/02/04/2020A20347/justel"
+      }
+    ],
+    "page_fr": "https://bysaro.be/lexique/mede-eigendom.html",
+    "page_nl": "https://bysaro.be/nl/lexicon/mede-eigendom.html",
+    "first_published": "2026-11-21"
+  },
+  {
+    "id": "notariele-akte",
+    "term_nl": "notariële akte",
+    "term_fr": "acte notarié",
+    "equivalence_fr": "La notariële akte est l'acte notarié : l'acte authentique reçu par un notaire, qui fait foi en justice et vaut titre exécutoire. La loi du 25 ventôse an XI contenant organisation du notariat le nomme dans ses deux versions, à l'article 19 comme à l'article 9, « de notariële akte », « l'acte notarié », et le livre 8 du Code civil reprend le couple à l'article 8.15 pour les actes reçus sous forme dématérialisée.",
+    "equivalence_nl": "De notariële akte is in het Frans de acte notarié: de authentieke akte die voor een notaris wordt verleden, in rechte bewijs oplevert en als uitvoerbare titel geldt. De wet van 25 ventôse jaar XI op het notarisambt noemt haar in haar twee versies, in artikel 19 en in artikel 9, « de notariële akte », « l'acte notarié », en boek 8 van het Burgerlijk Wetboek herneemt het paar in artikel 8.15 voor de akten die in gedematerialiseerde vorm worden verleden.",
+    "pitfall_fr": "« Acte notarial » et « acte de notaire » se lisent, mais le texte officiel écrit « acte notarié » ; « acte authentique » est le genre, dont l'acte notarié est l'espèce la plus courante. Le verbe compte : « een akte verlijden » se rend par « recevoir un acte » du côté du notaire, « passer un acte » du côté des parties, jamais « rédiger ». La « minuut » est la minute, la « grosse » la grosse, l'« uitgifte » l'expédition, et le « brevet » reste le brevet.\nLa « Notariële Aktebank » est la Banque des actes notariés ; « notarisambt » se rend par « notariat », non par « office notarial ».",
+    "pitfall_nl": "« Acte notarial » en « acte de notaire » komen voor, maar de officiële tekst schrijft « acte notarié »; « acte authentique » is het genus, waarvan de notariële akte de meest voorkomende soort is. Het werkwoord telt: « een akte verlijden » wordt « recevoir un acte » aan de kant van de notaris, « passer un acte » aan de kant van de partijen, nooit « rédiger ». De minuut is « la minute », de grosse « la grosse », de uitgifte « l'expédition », en het brevet blijft « le brevet ».\nDe Notariële Aktebank is « la Banque des actes notariés »; het notarisambt wordt « le notariat », niet « l'office notarial ».",
+    "example_nl": "De verkoop werd bij notariële akte van 12 maart vastgesteld.",
+    "example_fr": "La vente a été constatée par acte notarié du 12 mars.",
+    "related": [
+      "authentieke-akte",
+      "onderhandse-akte",
+      "volmacht",
+      "uitvoerbaar-bij-voorraad",
+      "gerechtsdeurwaarder"
+    ],
+    "sources": [
+      {
+        "instrument_nl": "Wet van 25 ventôse jaar XI op het notarisambt",
+        "instrument_fr": "Loi du 25 ventôse an XI contenant organisation du notariat",
+        "article": "19",
+        "quote_nl": "Alle notariële akten leveren bewijs op in rechte en zijn in het gehele Rijk uitvoerbaar.",
+        "quote_fr": "Tous actes notariés feront foi en justice et seront exécutoires dans toute l’étendue du Royaume.",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/1803/03/16/1803031601/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/1803/03/16/1803031601/justel"
+      },
+      {
+        "instrument_nl": "Burgerlijk Wetboek, boek 8",
+        "instrument_fr": "Code civil, livre 8",
+        "article": "8.15",
+        "quote_nl": "De notariële akten die in gedematerialiseerde vorm zijn verleden, worden evenwel opgemaakt en bewaard overeenkomstig de wet van 16 maart 1803 tot regeling van het notarisambt.",
+        "quote_fr": "Toutefois, les actes notariés qui sont reçus sous forme dématérialisée sont établis et conservés conformément à la loi du 16 mars 1803 contenant organisation du notariat.",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/2019/04/13/2019A12168/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/2019/04/13/2019A12168/justel"
+      }
+    ],
+    "page_fr": "https://bysaro.be/lexique/notariele-akte.html",
+    "page_nl": "https://bysaro.be/nl/lexicon/notariele-akte.html",
+    "first_published": "2026-11-21"
+  },
+  {
+    "id": "onderhandse-akte",
+    "term_nl": "onderhandse akte",
+    "term_fr": "acte sous signature privée",
+    "equivalence_fr": "L'onderhandse akte est l'acte sous signature privée : l'écrit signé par les parties pour produire des effets de droit, sans intervention d'un officier public. Le livre 8 du Code civil le définit dans les deux langues à l'article 8.1 et lui donne, à l'article 8.18, sa force probante entre les signataires, leurs héritiers et ayants cause.",
+    "equivalence_nl": "De onderhandse akte is in het Frans de acte sous signature privée: het geschrift dat de partijen ondertekenen om rechtsgevolgen teweeg te brengen, zonder tussenkomst van een openbare ambtenaar. Boek 8 van het Burgerlijk Wetboek omschrijft haar in beide talen in artikel 8.1 en geeft haar in artikel 8.18 haar bewijswaarde tussen de ondertekenaars, hun erfgenamen en rechtverkrijgenden.",
+    "pitfall_fr": "« Acte sous seing privé » est le mot de l'ancien Code, encore vivant dans les actes et la doctrine ; depuis le 1er novembre 2020, le texte écrit « acte sous signature privée », et une traduction d'aujourd'hui suit le Code en vigueur. « Acte privé » et « document privé » perdent la signature ; « onderhands » ne signifie pas « clandestin » : « een onderhandse verkoop » est une vente de gré à gré, « onderhands geschrift » un écrit sous signature privée. Le « commencement de preuve par écrit » répond au « begin van bewijs door geschrift ».\nLa « vaste dagtekening » est la date certaine, et l'« ontkenning van handschrift » le désaveu d'écriture, qui ouvre la vérification d'écriture du Code judiciaire.",
+    "pitfall_nl": "« Acte sous seing privé » is het woord van het oude Wetboek, nog levend in akten en rechtsleer; sinds 1 november 2020 schrijft de tekst « acte sous signature privée », en een vertaling van vandaag volgt het geldende Wetboek. « Acte privé » en « document privé » verliezen de handtekening; « onderhands » betekent niet « clandestin »: een onderhandse verkoop is « une vente de gré à gré », een onderhands geschrift « un écrit sous signature privée ». Het begin van bewijs door geschrift is « le commencement de preuve par écrit ».\nDe vaste dagtekening is « la date certaine », en de ontkenning van handschrift wordt « le désaveu d'écriture ».",
+    "example_nl": "De lening werd bij onderhandse akte in twee originelen vastgesteld.",
+    "example_fr": "Le prêt a été constaté par acte sous signature privée en deux originaux.",
+    "related": [
+      "authentieke-akte",
+      "notariele-akte",
+      "volmacht",
+      "huurovereenkomst"
+    ],
+    "sources": [
+      {
+        "instrument_nl": "Burgerlijk Wetboek, boek 8",
+        "instrument_fr": "Code civil, livre 8",
+        "article": "8.1, 4°",
+        "quote_nl": "[…] onderhandse akte: een geschrift dat rechtsgevolgen beoogt, dat door de partij(en) ondertekend wordt met de bedoeling om met de inhoud ervan in te stemmen, en dat geen authentieke akte is […]",
+        "quote_fr": "[…] acte sous signature privée: un écrit établi en vue de créer des conséquences juridiques, signé par la ou les parties, avec l’intention de s’en approprier le contenu, et qui n’est pas un acte authentique […]",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/2019/04/13/2019A12168/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/2019/04/13/2019A12168/justel"
+      },
+      {
+        "instrument_nl": "Burgerlijk Wetboek, boek 8",
+        "instrument_fr": "Code civil, livre 8",
+        "article": "8.18",
+        "quote_nl": "Een onderhandse akte levert een bewijs op van de overeenkomst die erin is vervat tussen de ondertekenaars van de akte en ten aanzien van hun erfgenamen en rechtverkrijgenden.",
+        "quote_fr": "L’acte sous signature privée fait foi de la convention qu’il renferme entre ceux qui l’ont signé et à l’égard de leurs héritiers et ayants cause.",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/2019/04/13/2019A12168/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/2019/04/13/2019A12168/justel"
+      }
+    ],
+    "page_fr": "https://bysaro.be/lexique/onderhandse-akte.html",
+    "page_nl": "https://bysaro.be/nl/lexicon/onderhandse-akte.html",
+    "first_published": "2026-11-21"
+  },
+  {
+    "id": "pacht",
+    "term_nl": "pacht",
+    "term_fr": "bail à ferme",
+    "equivalence_fr": "La pacht est le bail à ferme : le bail d'un bien immeuble affecté principalement à l'exploitation agricole du preneur. La loi du 4 novembre 1969, devenue la section 3 du chapitre II du titre VIII de l'ancien Code civil, pose le couple dans son intitulé, « pacht », « baux à ferme », et son article 1er en fixe le champ dans les deux langues, « de pachter », « le preneur », « in de loop van de pachttijd », « en cours de bail ».",
+    "equivalence_nl": "De pacht is in het Frans de bail à ferme: de huur van een onroerend goed dat hoofdzakelijk in het landbouwbedrijf van de pachter wordt gebruikt. De wet van 4 november 1969, nu afdeling 3 van hoofdstuk II van titel VIII van het oud Burgerlijk Wetboek, zet het paar in haar opschrift, « pacht », « baux à ferme », en artikel 1 bepaalt het toepassingsgebied in beide talen, « de pachter », « le preneur », « in de loop van de pachttijd », « en cours de bail ».",
+    "pitfall_fr": "« Fermage » est le loyer du bail à ferme, le « pachtprijs » ou « pachtgeld », non le bail lui-même ; « bail rural » est le mot du droit français, « location de terres » décrit. Le texte belge dit « bail à ferme », et ses personnes « preneur » et « bailleur » : « pachter » se rend par « preneur », parfois « fermier » dans l'ancien Code, « verpachter » par « bailleur » ; la « pachtwet » est la loi sur le bail à ferme.\nLa matière est régionale depuis 2014 : la Wallonie a réécrit la section en 2019, la Flandre l'a remplacée par son décret de 2023, dont seule la version néerlandaise fait foi.",
+    "pitfall_nl": "« Fermage » is de huurprijs van de pacht, de pachtprijs of het pachtgeld, niet de pacht zelf; « bail rural » is het woord van het Franse recht, « location de terres » omschrijft. De Belgische tekst zegt « bail à ferme », en haar personen « preneur » en « bailleur »: de pachter wordt « le preneur », soms « le fermier » in het oude Wetboek, de verpachter « le bailleur »; de pachtwet is « la loi sur le bail à ferme ».\nDe materie is sinds 2014 gewestelijk: Wallonië herschreef de afdeling in 2019, Vlaanderen verving haar door zijn decreet van 2023, waarvan alleen de Nederlandse versie rechtskracht heeft.",
+    "example_nl": "De pacht werd schriftelijk vastgesteld en de pachter betaalt het pachtgeld jaarlijks.",
+    "example_fr": "Le bail à ferme a été constaté par écrit et le preneur paie le fermage chaque année.",
+    "related": [
+      "huurovereenkomst",
+      "handelshuur",
+      "vruchtgebruik",
+      "notariele-akte"
+    ],
+    "sources": [
+      {
+        "instrument_nl": "Oud Burgerlijk Wetboek, afdeling 3 (pacht)",
+        "instrument_fr": "Ancien Code civil, section 3 (baux à ferme)",
+        "article": "",
+        "quote_nl": "Regels betreffende de pacht in het bijzonder.",
+        "quote_fr": "Des règles particulières aux baux à ferme.",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/1969/11/04/1969110450/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/1969/11/04/1969110450/justel"
+      },
+      {
+        "instrument_nl": "Oud Burgerlijk Wetboek, afdeling 3 (pacht)",
+        "instrument_fr": "Ancien Code civil, section 3 (baux à ferme)",
+        "article": "1, 1°",
+        "quote_nl": "[…] de pacht van onroerende goederen die, hetzij vanaf de ingenottreding van de pachter, hetzij krachtens een overeenkomst van partijen in de loop van de pachttijd, hoofdzakelijk gebruikt worden in zijn landbouwbedrijf, met uitsluiting van de bosbouw.",
+        "quote_fr": "[…] les baux de biens immeubles qui, soit dès l’entrée en jouissance du preneur, soit de l’accord des parties en cours de bail, sont affectés principalement à son exploitation agricole, à l’exclusion de la sylviculture.",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/1969/11/04/1969110450/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/1969/11/04/1969110450/justel"
+      }
+    ],
+    "page_fr": "https://bysaro.be/lexique/pacht.html",
+    "page_nl": "https://bysaro.be/nl/lexicon/pacht.html",
+    "first_published": "2026-11-21"
   },
   {
     "id": "rechtsdag",
@@ -1115,6 +1436,45 @@
     "first_published": "2026-11-03"
   },
   {
+    "id": "volmacht",
+    "term_nl": "volmacht",
+    "term_fr": "procuration",
+    "equivalence_fr": "La volmacht est la procuration : l'acte par lequel une personne donne à une autre le pouvoir d'agir pour elle et en son nom. L'article 1984 de l'ancien Code civil, toujours en vigueur, pose le couple dans les deux langues, « lastgeving of volmacht », « le mandat ou la procuration », et l'article 20 de la loi contenant organisation du notariat range « de volmachten », « les procurations », parmi les actes qui peuvent être délivrés en brevet.",
+    "equivalence_nl": "De volmacht is in het Frans de procuration: de handeling waarbij een persoon aan een ander de macht geeft om voor hem en in zijn naam te handelen. Artikel 1984 van het oud Burgerlijk Wetboek, nog van kracht, zet het paar in beide talen, « lastgeving of volmacht », « le mandat ou la procuration », en artikel 20 van de wet op het notarisambt rekent « de volmachten », « les procurations », tot de akten die in brevet mogen worden uitgegeven.",
+    "pitfall_fr": "« Plein pouvoir », « pouvoir » et « autorisation » élargissent ou décrivent ; le texte dit « procuration ». Le néerlandais distingue la « lastgeving », le mandat, contrat entre mandant et mandataire, et la « volmacht », la procuration, pouvoir conféré et écrit qui le constate ; le français garde la même ligne : « bij volmacht » se rend par « par procuration », « een volmacht verlenen » par « donner procuration », « de lastgever » par le mandant et « de lasthebber » par le mandataire. « Mandat » seul traduit « lastgeving » ou « mandaat ».\nÀ l'article 12 de la loi sur le notariat, « de volmachten van de contractanten » sont « les procurations des contractants », annexées à la minute.",
+    "pitfall_nl": "« Plein pouvoir », « pouvoir » en « autorisation » verruimen of omschrijven; de tekst zegt « procuration ». Het Nederlands onderscheidt de lastgeving, het contract tussen lastgever en lasthebber, en de volmacht, de verleende macht en het geschrift dat haar vaststelt; het Frans houdt dezelfde lijn: « bij volmacht » wordt « par procuration », « een volmacht verlenen » wordt « donner procuration », de lastgever wordt « le mandant » en de lasthebber « le mandataire ». « Mandat » alleen vertaalt « lastgeving » of « mandaat ».\nIn artikel 12 van de wet op het notarisambt zijn « de volmachten van de contractanten » « les procurations des contractants », die aan de minuut worden gehecht.",
+    "example_nl": "De akte werd ondertekend door de gevolmachtigde krachtens een onderhandse volmacht.",
+    "example_fr": "L’acte a été signé par le mandataire en vertu d’une procuration sous signature privée.",
+    "related": [
+      "onderhandse-akte",
+      "authentieke-akte",
+      "notariele-akte"
+    ],
+    "sources": [
+      {
+        "instrument_nl": "Oud Burgerlijk Wetboek",
+        "instrument_fr": "Ancien Code civil",
+        "article": "1984",
+        "quote_nl": "Lastgeving of volmacht is een handeling, waarbij een persoon aan een ander de macht geeft om iets voor de lastgever en in zijn naam te doen.",
+        "quote_fr": "Le mandat ou la procuration est un acte par lequel une personne donne à une autre le pouvoir de faire quelque chose pour le mandant et en son nom.",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/1804/03/21/1804032154/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032154/justel"
+      },
+      {
+        "instrument_nl": "Wet van 25 ventôse jaar XI op het notarisambt",
+        "instrument_fr": "Loi du 25 ventôse an XI contenant organisation du notariat",
+        "article": "20",
+        "quote_nl": "[…] de volmachten, akten van bekendheid, kwijtingen van pachtgelden, huurgelden, lonen, pensioenuitkeringen en rentetermijnen, en andere eenvoudige akten die volgens de wet in brevet mogen worden uitgegeven.",
+        "quote_fr": "[…] procurations, actes de notoriété, quittances de fermages, de loyers, de salaires, arrérages de pensions et rentes, et autres actes simples qui, d’après les lois, peuvent être délivrés en brevet.",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/1803/03/16/1803031601/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/1803/03/16/1803031601/justel"
+      }
+    ],
+    "page_fr": "https://bysaro.be/lexique/volmacht.html",
+    "page_nl": "https://bysaro.be/nl/lexicon/volmacht.html",
+    "first_published": "2026-11-21"
+  },
+  {
     "id": "vonnis",
     "term_nl": "vonnis",
     "term_fr": "jugement",
@@ -1193,5 +1553,45 @@
     "page_fr": "https://bysaro.be/lexique/voorzitter-in-kort-geding.html",
     "page_nl": "https://bysaro.be/nl/lexicon/voorzitter-in-kort-geding.html",
     "first_published": "2026-11-17"
+  },
+  {
+    "id": "vruchtgebruik",
+    "term_nl": "vruchtgebruik",
+    "term_fr": "usufruit",
+    "equivalence_fr": "Le vruchtgebruik est l'usufruit : le droit temporaire d'user d'un bien et d'en jouir, qui appartient à un autre, le nu-propriétaire, à charge de le restituer à la fin du droit. Le livre 3 du Code civil le définit dans les deux langues à l'article 3.138 et en règle la durée à l'article 3.141, « gevestigd », « établi », pour une durée déterminée ou indéterminée.",
+    "equivalence_nl": "Het vruchtgebruik is in het Frans de usufruit: het tijdelijk recht om een goed van een ander, de blote eigenaar, te gebruiken en ervan te genieten, onder de verplichting het bij het einde van het recht terug te geven. Boek 3 van het Burgerlijk Wetboek omschrijft het in beide talen in artikel 3.138 en regelt de duur in artikel 3.141, « gevestigd », « établi », voor bepaalde of onbepaalde duur.",
+    "pitfall_fr": "« Jouissance des fruits » et « droit d'usage » traduisent les morceaux du mot et perdent l'institution ; le Code dit « usufruit ». Les personnes ont leur nom : « vruchtgebruiker » se rend par « usufruitier », « blote eigenaar » par « nu-propriétaire », avec son trait d'union, jamais « propriétaire nu ». « Vestigen » est « établir », mot de l'article 3.141, et « genot » la jouissance.\nLe « recht van bewoning » de l'article 3.138 est le droit d'habitation, présumé usufruit incessible limité au logement ; les « vruchten » restent les fruits.",
+    "pitfall_nl": "« Jouissance des fruits » en « droit d'usage » vertalen de delen van het woord en verliezen de instelling; het Wetboek zegt « usufruit ». De personen hebben hun naam: de vruchtgebruiker wordt « l'usufruitier », de blote eigenaar « le nu-propriétaire », met koppelteken, nooit « propriétaire nu ». « Vestigen » is « établir », het woord van artikel 3.141, en « genot » is « la jouissance ».\nHet recht van bewoning van artikel 3.138 is « le droit d'habitation », vermoed een onoverdraagbaar vruchtgebruik beperkt tot de woning te zijn; de vruchten blijven « les fruits ».",
+    "example_nl": "De langstlevende echtgenoot heeft het vruchtgebruik van de gezinswoning.",
+    "example_fr": "Le conjoint survivant a l’usufruit du logement familial.",
+    "related": [
+      "erfdienstbaarheid",
+      "mede-eigendom",
+      "notariele-akte",
+      "pacht"
+    ],
+    "sources": [
+      {
+        "instrument_nl": "Burgerlijk Wetboek, boek 3",
+        "instrument_fr": "Code civil, livre 3",
+        "article": "3.138",
+        "quote_nl": "Vruchtgebruik verleent aan zijn titularis het tijdelijk recht op het gebruik en genot van een goed van de blote eigenaar, zoals een voorzichtig en redelijk persoon, in overeenstemming met de bestemming van dat goed en onder de verplichting om het goed bij het einde van zijn recht terug te geven.",
+        "quote_fr": "L’usufruit confère à son titulaire le droit temporaire à l’usage et à la jouissance, de manière prudente et raisonnable, d’un bien appartenant au nu-propriétaire, conformément à la destination de ce bien et avec l’obligation de restituer celui-ci à la fin de son droit.",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/2020/02/04/2020A20347/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/2020/02/04/2020A20347/justel"
+      },
+      {
+        "instrument_nl": "Burgerlijk Wetboek, boek 3",
+        "instrument_fr": "Code civil, livre 3",
+        "article": "3.141",
+        "quote_nl": "Een vruchtgebruik kan worden gevestigd voor bepaalde of onbepaalde duur.",
+        "quote_fr": "Un usufruit peut être établi pour une durée déterminée ou indéterminée.",
+        "url_nl": "https://www.ejustice.just.fgov.be/eli/wet/2020/02/04/2020A20347/justel",
+        "url_fr": "https://www.ejustice.just.fgov.be/eli/loi/2020/02/04/2020A20347/justel"
+      }
+    ],
+    "page_fr": "https://bysaro.be/lexique/vruchtgebruik.html",
+    "page_nl": "https://bysaro.be/nl/lexicon/vruchtgebruik.html",
+    "first_published": "2026-11-21"
   }
 ]
