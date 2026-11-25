@@ -36,6 +36,7 @@ Human-readable version: [bysaro.be/lexique](https://bysaro.be/lexique/) (French)
 | `data/lexicon.csv` | One row per term, UTF-8 with byte order mark, opens in a spreadsheet |
 | `data/lexicon.json` | Full entries, with the quoted provisions |
 | `data/lexicon.jsonl` | Same entries, one per line |
+| `CHANGELOG.md` | Changes from one version to the next, in English and in French |
 
 ## Fields
 
@@ -54,17 +55,17 @@ Human-readable version: [bysaro.be/lexique](https://bysaro.be/lexique/) (French)
 
 ## Sources
 
-Ninety-nine references to official Belgian texts: the Judicial Code (Gerechtelijk Wetboek, Code judiciaire), Book XX of the Code of Economic Law (Wetboek van economisch recht, Code de droit économique), Books 3 and 8 of the Civil Code (Burgerlijk Wetboek, Code civil), the Companies and Associations Code (Wetboek van vennootschappen en verenigingen, Code des sociétés et des associations), the former Civil Code with its sections on commercial leases and farm leases, the Act of 25 Ventôse Year XI on the notarial profession and one page of the Federal Public Service Employment. Legislation was read on Justel, the consolidated legislation database of the Belgian Federal Public Service Justice, on 3, 10, 17 and 21 November 2026. Each entry links to the text it quotes. Legislation changes: check the current version before relying on a quotation.
+Ninety-nine references to official Belgian texts: the Judicial Code (Gerechtelijk Wetboek, Code judiciaire), Book XX of the Code of Economic Law (Wetboek van economisch recht, Code de droit économique), Books 3 and 8 of the Civil Code (Burgerlijk Wetboek, Code civil), the Companies and Associations Code (Wetboek van vennootschappen en verenigingen, Code des sociétés et des associations), the former Civil Code with its sections on commercial leases and farm leases, the Act of 25 Ventôse Year XI on the notarial profession and one page of the Federal Public Service Employment. Legislation was read on Justel, the consolidated legislation database of the Belgian Federal Public Service Justice, on 3, 10, 17, 21 and 25 November 2026. Each entry links to the text it quotes. Legislation changes: check the current version before relying on a quotation.
 
 ## Scope and limits
 
-Version 1.3 of 21 November 2026 holds 50 terms. Version 1.2 held 40 terms and version 1.1 held 30; version 1.0 held the terms, their equivalents and the source references only. Later versions will follow any addition to the lexicon on bysaro.be. The entries cover Belgian law only: Dutch legal terms used in the Netherlands often carry another meaning. The lexicon is a translation aid and gives no legal advice.
+Version 1.4 of 25 November 2026 holds 50 terms; 24 entries were corrected against the law in force on that date (see `CHANGELOG.md`). Version 1.3 of 21 November 2026 held the same 50 terms, version 1.2 held 40 and version 1.1 held 30; version 1.0 held the terms, their equivalents and the source references only. Later versions will follow any addition to the lexicon on bysaro.be. The entries cover Belgian law only: Dutch legal terms used in the Netherlands often carry another meaning. The lexicon is a translation aid and gives no legal advice.
 
 ## Licence and citation
 
 Lexicon entries: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). The quoted provisions come from the official texts linked in each entry.
 
-Please cite: Philippe Lognoul, *Belgian legal lexicon, Dutch-French*, version 1.3, 2026, Zenodo, https://doi.org/10.5281/zenodo.24416443.
+Please cite: Philippe Lognoul, *Belgian legal lexicon, Dutch-French*, version 1.4, 2026, Zenodo, https://doi.org/10.5281/zenodo.24416443.
 
 Archived on Zenodo, all versions: https://doi.org/10.5281/zenodo.24416443
 
@@ -72,10 +73,10 @@ Archived on Zenodo, all versions: https://doi.org/10.5281/zenodo.24416443
 
 Cinquante termes néerlandais de la procédure, des actes, du droit des biens et du droit des sociétés belges, avec leur équivalent français. Chaque équivalence s’appuie sur l’article de loi où les deux versions linguistiques emploient le terme. Chaque entrée cite la disposition dans les deux langues, signale l’erreur de traduction courante et donne une phrase d’exemple en néerlandais et en français.
 
-Les textes ont été lus sur Justel, la base de législation consolidée du SPF Justice, les 3, 10, 17 et 21 novembre 2026. Le lexique porte sur le seul droit belge. Il aide à traduire et ne donne aucun conseil juridique. Réutilisation libre sous licence CC BY 4.0, avec mention de l’auteur.
+Les textes ont été lus sur Justel, la base de législation consolidée du SPF Justice, les 3, 10, 17, 21 et 25 novembre 2026. Le lexique porte sur le seul droit belge. Il aide à traduire et ne donne aucun conseil juridique. Réutilisation libre sous licence CC BY 4.0, avec mention de l’auteur.
 
 ## Nederlands
 
 Vijftig Nederlandse termen uit het Belgische procesrecht, het aktenrecht, het goederenrecht en het vennootschapsrecht, met hun Franse equivalent. Elke gelijkwaardigheid steunt op het wetsartikel waarin beide taalversies de term gebruiken. Elke ingang citeert de bepaling in beide talen, wijst op de gebruikelijke vertaalfout en geeft een voorbeeldzin in het Nederlands en in het Frans.
 
-De teksten zijn geraadpleegd op Justel, de databank met geconsolideerde wetgeving van de FOD Justitie, op 3, 10, 17 en 21 november 2026. Het lexicon behandelt alleen Belgisch recht. Het is een hulpmiddel bij het vertalen en geeft geen juridisch advies. Vrij hergebruik onder de licentie CC BY 4.0, met naamsvermelding.
+De teksten zijn geraadpleegd op Justel, de databank met geconsolideerde wetgeving van de FOD Justitie, op 3, 10, 17, 21 en 25 november 2026. Het lexicon behandelt alleen Belgisch recht. Het is een hulpmiddel bij het vertalen en geeft geen juridisch advies. Vrij hergebruik onder de licentie CC BY 4.0, met naamsvermelding.
