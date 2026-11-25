@@ -67,7 +67,7 @@ Lexicon entries: [Creative Commons Attribution 4.0 International](https://creati
 
 Please cite: Philippe Lognoul, *Belgian legal lexicon, Dutch-French*, version 1.4, 2026, Zenodo, https://doi.org/10.5281/zenodo.24416443.
 
-Archived on Zenodo, all versions: https://doi.org/10.5281/zenodo.24416443
+Archived on Zenodo, all versions: https://doi.org/10.5281/zenodo.24416443; version 1.4: https://doi.org/10.5281/zenodo.24536791
 
 ## Français
 

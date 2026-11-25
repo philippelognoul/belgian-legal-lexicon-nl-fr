@@ -4,6 +4,10 @@ title: "Belgian legal lexicon, Dutch-French"
 type: dataset
 version: "1.4"
 doi: 10.5281/zenodo.24416443
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24536791
+    description: "Version 1.4"
 date-released: "2026-11-25"
 license: CC-BY-4.0
 url: "https://bysaro.be/lexique/"
